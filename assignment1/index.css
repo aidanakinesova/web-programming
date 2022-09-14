@@ -1,0 +1,66 @@
+body {
+    background-color: aliceblue;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+
+#mount {
+    margin-left: 40px;
+}
+
+#mnt-text {
+    width: 28%;
+    margin-left: 30px;
+}
+
+#horse {
+    margin-left: 70px;
+}
+
+#bicycle {
+    margin-left: 80px;
+}
+
+.pictures {
+    flex-direction: row;
+}
+
+.title {
+    display: flex;
+    flex-direction: row;
+}
+
+#mnt {
+    margin-left: 140px;
+}
+
+#hrs {
+    margin-left: 320px;
+}
+
+#ccl {
+    margin-left: 340px;
+}
+
+.texts {
+    display: flex;
+    flex-direction: row;
+}
+
+#hrs-text {
+    width: 30%;
+    margin-left: 40px;
+}
+
+#ccl-text {
+    width: 30%;
+    margin-left: 30px;
+}
+
+#last-sent {
+    text-align: center;
+    margin-bottom: 40px;
+}
