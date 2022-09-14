@@ -1,0 +1,76 @@
+#maintitle {
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+#avatar {
+    border: 2px solid #fff;
+    box-shadow: 10px 10px 5px #ccc;
+    margin-left: 40px;
+    padding-left: 10px;
+    margin-top: 25px;
+    width: 18%;
+}
+
+.left-box {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-left: 40px;
+    padding-right: 30px;
+    border: 2px solid rgb(244, 237, 237);
+    box-shadow: 4px 4px 4px 4px #ccc;
+    width: 70%;
+    height: 1000px;
+}
+
+.info-top {
+    margin-left: 250px;
+    margin-top: -150px;
+}
+
+/* #block-name1 {
+    margin-left: 60px;
+} */
+
+.block-names {
+    margin-left: 60px;
+}
+
+.info-bottom {
+    margin-top: 75px;
+}
+
+.vl {
+    border-left: 1px solid black;
+    height: 140px;
+    margin-left: 150px;
+    margin-top: -34px;
+}
+
+.edu-text {
+    margin-left: 180px;
+    margin-top: -152px;
+}
+
+.hobby-block {
+    margin-top: 35px;
+}
+
+.experience-block {
+    margin-top: 65px;
+}
+
+.exp-text {
+    margin-left: 140px;
+    margin-top: -150px;
+}
+
+.right-box {
+    margin-top: -1000px;
+    padding-left: 950px;
+    width: 30%;
+    font-size: 18px;
+    line-height: 28px;
+}
